@@ -1,0 +1,4 @@
+#Ethial considerations in computing
+1. Who has access to my data.
+2. Why is realtime location data from phones being collected.
+3. Is the data being used for positive or negitive reasons.
