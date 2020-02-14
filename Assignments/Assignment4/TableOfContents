@@ -1,2 +1,6 @@
-Login.pdf contains a pdf of the activity diagram for the Login method for all users.
+Login.pdf contains a pdf of the activity diagram for the Login activity for all users.
 Login.drawio contains the drawio file for the activity diagram.
+StudentSubmitAssignment.pdf contains the use case diagram for the student submit assignment activity
+StudentSubmitAssignment.drawio contains the drawio file for the use case diagram.
+TAGradeAssignment.pdf contains a pdf of the state machine diagram for the grade assignment activity for the TA.
+TAGradeAssignment.drawio contains the drawio file for the state machine diagram
