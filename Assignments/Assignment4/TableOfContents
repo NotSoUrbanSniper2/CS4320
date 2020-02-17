@@ -1,6 +1,8 @@
-Login.pdf contains a pdf of the activity diagram for the Login activity for all users.
+Login.png contains a png of the activity diagram for the Login activity for all users.
 Login.drawio contains the drawio file for the activity diagram.
-StudentSubmitAssignment.pdf contains the use case diagram for the student submit assignment activity
+StudentSubmitAssignment.png contains the use case diagram for the student submit assignment activity
 StudentSubmitAssignment.drawio contains the drawio file for the use case diagram.
-TAGradeAssignment.pdf contains a pdf of the state machine diagram for the grade assignment activity for the TA.
+TAGradeAssignment.png contains a png of the state machine diagram for the grade assignment activity for the TA.
 TAGradeAssignment.drawio contains the drawio file for the state machine diagram
+AdminDeleteInstructor.png contains the png file of the Sequence diagram for the Admin delete instructor activity.
+AdminDeleteInstructor.drawio contains the drawio file for the Admin delete instructor sequence diagram.
